@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "brand": "Honda",
+        "model": "Amaze",
+        "variant": "V",
+        "fuel": "Petrol",
+        "transmition": "CVT",
+        "bodytype": "Compact Sedan",
+        "cylinder": "4",
+        "displacement": "1200",
+        "image_url": "https://www.hondacarindia.com/areas/amaze/content/desktop/images/gallery/slider1.jpg",
+        "length": "3995mm",
+	"width": "1695mm",
+	"height": "1501mm",
+	"groundclearance": "170mm",
+        "official_url": "https://www.hondacarindia.com/honda-amaze"
+    },
+    {
+        "id": 2,
+        "brand": "Maruti Suzuki",
+        "model": "Swift",
+        "variant": "ZXI Plus",
+        "fuel": "Petrol",
+        "transmition": "AMT",
+        "bodytype": "Hatchback",
+        "cylinder": "4",
+        "displacement": "1197",
+        "image_url": "https://marutisuzukiarenaprodcdn.azureedge.net/-/media/images/maruti/marutisuzuki/car/car-profile-shots/solid-redn.ashx",
+        "length": "3840mm",
+	"width": "1735mm",
+	"height": "1530mm",
+	"groundclearance": "163mm",
+        "official_url": "https://www.marutisuzuki.com/channels/arena/hatchbacks/swift/"
+    }
+]
